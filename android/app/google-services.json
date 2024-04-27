@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379627840329",
+    "project_id": "comune-b9be8",
+    "storage_bucket": "comune-b9be8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379627840329:android:8480e0be6c84c2dd1eb098",
+        "android_client_info": {
+          "package_name": "com.example.comune"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2dVsN9nys_k0do31oKNlttPjUqWkXfQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
